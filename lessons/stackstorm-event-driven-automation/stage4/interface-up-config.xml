@@ -1,0 +1,8 @@
+<configuration>
+    <interfaces>
+        <interface>
+            <name>em3</name>
+            <disable operation="delete"/>
+        </interface>
+    </interfaces>
+</configuration>

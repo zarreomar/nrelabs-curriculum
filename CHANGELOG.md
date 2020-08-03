@@ -2,7 +2,24 @@
 
 ## In development
 
+- Fix troubleshooting lesson scripts to be py3 compatible [#345](https://github.com/nre-learning/nrelabs-curriculum/pull/345)
+- Migrating from travis to github actions [#344](https://github.com/nre-learning/nrelabs-curriculum/pull/344)
+- Converged motd banners in crpd, added helper tip for 'cli' command [#343](https://github.com/nre-learning/nrelabs-curriculum/pull/343)
+- Misc curriculum updates for Antidote 0.7 compatibility [#341](https://github.com/nre-learning/nrelabs-curriculum/pull/341)
+- Refurbish JSNAPy lesson and move to cRPD [#338](https://github.com/nre-learning/nrelabs-curriculum/pull/338)
+- Update troubleshooting lesson with flavor and cRPD [#337](https://github.com/nre-learning/nrelabs-curriculum/pull/337)
+- Add spelling checks in CI pipeline [#276](https://github.com/nre-learning/nrelabs-curriculum/pull/276)
+- Add cRPD Image and image flavor params [#336](https://github.com/nre-learning/nrelabs-curriculum/pull/336)
+
+## v1.2.0 - April 14, 2020
+
+- Updates for 0.6.0 Compatibility [#317](https://github.com/nre-learning/nrelabs-curriculum/pull/317)
+- Add stage4 for Git lesson: remotes [#322](https://github.com/nre-learning/nrelabs-curriculum/pull/322)
+
+## v1.1.2 - April 06, 2020
+
 - Updated Ansible to 2.9.2 in Ansible image [#310](https://github.com/nre-learning/nrelabs-curriculum/pull/310)
+- New Git Stage - "Fixing Mistakes" [#319](https://github.com/nre-learning/nrelabs-curriculum/pull/319)
 
 ## v1.1.1 - March 02, 2020
 

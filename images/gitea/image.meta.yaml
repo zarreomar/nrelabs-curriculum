@@ -1,0 +1,9 @@
+slug: gitea
+description: gitea
+flavor: untrusted
+configUser: root
+configPassword: antidotepassword
+sshUser: "foo"
+sshPassword: "bar"
+networkInterfaces:
+  - 'eth0'

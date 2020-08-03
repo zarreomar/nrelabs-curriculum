@@ -1,0 +1,10 @@
+slug: salt
+description: salt
+flavor: untrusted
+sshUser: antidote
+sshPassword: antidotepassword
+configUser: antidote
+configPassword: antidotepassword
+networkInterfaces:
+  - 'eth0'
+

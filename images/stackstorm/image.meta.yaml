@@ -1,0 +1,10 @@
+slug: stackstorm
+description: stackstorm
+flavor: untrusted
+sshUser: antidote
+sshPassword: antidotepassword
+configUser: antidote
+configPassword: antidotepassword
+networkInterfaces:
+  - 'eth0'
+
